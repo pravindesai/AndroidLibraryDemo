@@ -12,8 +12,8 @@ Add it in your root build.gradle  at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	def SnackLibrary_VERSION = "3.0.0"
-    implementation "com.github.pravindesai:AndroidLibraryDemo:$SnackLibrary_VERSION"
+		def SnackLibrary_VERSION = "3.0.0"
+    		implementation "com.github.pravindesai:AndroidLibraryDemo:$SnackLibrary_VERSION"
 	}
 	
 ****
