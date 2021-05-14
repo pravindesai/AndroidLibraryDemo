@@ -1,9 +1,8 @@
 package com.example.loglibrary
 
-class SnackDemo {
-    companion object{
-        fun print(){
-            println("Working ... ")
-        }
+object SnackDemo {
+    public fun print(){
+        println("Working ... ")
     }
+
 }
