@@ -17,8 +17,8 @@ Step 2. Add the dependency
 	}
 	
 ****
-****
- # Useful Methods
+
+# Useful Methods
     
     SnackLog.print(pattern:String, data:String)
 
